@@ -45,7 +45,7 @@ For this project we worked on these technologies
 > [!IMPORTANT]
 > To get started with this project, you'll need :
 
-- [Node.js 20+](https://nodejs.org/en/download)  
+- [Node.js](https://nodejs.org/en/download)  
 - [Git](https://git-scm.com/downloads)  
 
   <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
@@ -55,7 +55,7 @@ For this project we worked on these technologies
 Clone the repository from GitHub:
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Tokennn/API.git>
 cd TP-API
 ```
 
