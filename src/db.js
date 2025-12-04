@@ -124,8 +124,8 @@ function seedUsers() {
   if (existing > 0) return;
 
   const users = [
-    { email: 'alice@example.com', password: 'password123', role: 'user' },
-    { email: 'bob@example.com', password: 'password123', role: 'user' },
+    { email: 'eleve@example.com', password: 'password123', role: 'user' },
+    { email: 'prof@example.com', password: 'password123', role: 'user' },
     { email: 'admin@example.com', password: 'admin123', role: 'admin' },
   ];
 
