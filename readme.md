@@ -17,6 +17,15 @@ For this project we worked on these technologies
 * [![Express][Express]][Express-url]
 * [![SQLite][SQLite]][SQLite-url]
 
+**Role of each technology**
+
+- **Git** : versioning et collaboration.
+- **Node.js** : runtime JavaScript pour le backend.
+- **Express** : framework HTTP minimal pour structurer les routes/middlewares.
+- **SQLite (better-sqlite3)** : base embarquée, persistance des users/produits/refresh tokens.
+- **bcryptjs** : hash/verification des mots de passe.
+- **jsonwebtoken** : signature/vérification des access tokens (JWT HS256).
+
   <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
 
 ## Architecture and Design
