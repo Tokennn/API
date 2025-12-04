@@ -45,9 +45,6 @@ For this project we worked on these technologies
 <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
 
 
-
-<p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
-
 ## Project initialization
 
 
@@ -98,11 +95,6 @@ JWT_SECRET="ma magnifique clef" PORT=3000 npm start
 
 <p align="right">(<a href="#readme-top"><strong>Back to top</strong></a>)</p>
 
-## Contact 
-
-- [@Tokennn](https://github.com/Tokennn)
-- [@TerminaTorr45](https://github.com/TerminaTorr45)
-- [@M4xxes](https://github.com/M4xxes)
 
 <!-- (Markdown img link) : -->
  
